@@ -1,0 +1,4 @@
+youtube-transcript-api
+jieba
+pypinyin
+deep-translator
