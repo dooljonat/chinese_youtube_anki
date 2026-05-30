@@ -30,7 +30,8 @@ def extract_video_id(url: str) -> str:
 
 
 def fetch_chinese_transcript(video_id: str) -> str:
-    transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
+    api = YouTubeTranscriptApi()
+    transcript_list = api.list(video_id)
 
     # Prefer manually created transcripts, fall back to auto-generated
     for find in [
@@ -41,7 +42,7 @@ def fetch_chinese_transcript(video_id: str) -> str:
             transcript = find()
             print(f"  Found transcript: {transcript.language} ({transcript.language_code})")
             entries = transcript.fetch()
-            return ' '.join(entry['text'] for entry in entries)
+            return ' '.join(entry.text for entry in entries)
         except Exception:
             continue
 
@@ -136,9 +137,13 @@ def translate_words(words: list, batch_size: int = 50) -> list:
 
 def write_csv(flashcards: list, output_path: str):
     with open(output_path, 'w', newline='', encoding='utf-8') as f:
-        writer = csv.DictWriter(f, fieldnames=['chinese', 'pinyin', 'english'])
+        writer = csv.DictWriter(f, fieldnames=['chinese', 'pinyin & english'])
         writer.writeheader()
-        writer.writerows(flashcards)
+        for card in flashcards:
+            writer.writerow({
+                'chinese': card['chinese'],
+                'pinyin & english': f"{card['pinyin']} / {card['english']}",
+            })
 
 
 def main():
