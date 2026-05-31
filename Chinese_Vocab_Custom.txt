@@ -1,0 +1,1056 @@
+Front	Back
+学号	xuéhào — student ID number
+账号	zhànghào | Account
+密码	mìmǎ — password
+经理	jīnglǐ — manager
+联系	liánxì — to contact
+跟	gēn | With (doing something with someone)
+随时	suíshí — anytime / whenever
+来找我	lái zhǎo wǒ | Come find me
+再见	zàijiàn — goodbye
+没问题	méi wèntí — no problem
+不客气	bù kèqi — you're welcome
+请等一下	qǐng děng yīxià — please wait a moment (casual)
+我帮你联系我的经理	Wǒ bāng nǐ liánxì wǒ de jīnglǐ | I will contact my manager for you
+你知道你的学号吗？	Nǐ zhīdào nǐ de xuéhào ma? | Do you know your student number?
+你的密码对吗？*	Nǐ de mìmǎ duì ma? | Is your password correct?
+有问题随时来找我	Yǒu wèntí suíshí lái zhǎo wǒ | Come find me anytime if you have questions
+了	le — change of state / completed action particle (NOT simple past tense)
+跟⋯说话	gēn...shuōhuà | To speak WITH someone
+吗	ma — question particle (yes/no questions)
+想	xiǎng — to want to / to think
+继续	jìxù | Continue
+对话	duìhuà | Conversation
+我们	wǒmen | We / our
+老师	lǎoshī | Teacher / tutor (casual
+导师	dǎoshī | Mentor / academic tutor
+家教	jiājiào | Private tutor (one-on-one)
+我的世界	wǒ de shìjiè — Minecraft
+世界	shìjiè | World
+挖矿	wā kuàng — to mine
+啊	a — softening particle (friendliness / mild emphasis)
+哎呀	āiyā — oh! / ah! (casual exclamation)
+这儿	zhèr — here (spoken/casual)
+一些	yīxiē — some / a few
+给你	gěi nǐ — here you go / for you
+够	gòu — enough
+够用了	gòu yòng le — that's plenty / enough to use
+快没了	kuài méi le — almost run out / nearly gone
+钻石	zuànshí — diamond
+镐子	gǎozi — pickaxe
+洞穴	dòngxué — cave
+一起	yīqǐ — together
+那个	nà ge — that (one)
+吧	ba — (particle) softens suggestions — shall we? / right?
+等一下	děng yīxià — wait a moment / one sec
+先	xiān — first / before anything else
+带	dài — to bring / to carry
+火把	huǒbǎ — torch
+个	gè — general counter word for objects
+怪物	guàiwù — mob / monster
+小心	xiǎoxīn — be careful
+可能	kěnéng — maybe / possibly 
+里	lǐ — inside / within
+剑	jiàn — sword
+想要	xiǎng yào / want
+不用了	bù yòng le — no need / it's okay
+出发	chūfā — to set off / head out
+哇塞	wā sāi — whoa! (strong colloquial exclamation)
+走吧	zǒu ba — let's go!
+没有	méiyǒu — to not have / there is none
+当然	dāngrán — of course
+一个人	yīgè rén — alone / by oneself
+无聊	wúliáo — boring
+刚	gāng — just (recently)
+服务器	fúwùqì — server
+没关系	méi guānxi — it's okay / no worries
+其实	qí shí / Actually
+基地	jīdì — base
+一起住	yīqǐ zhù — live / stay together
+工具	gōngjù — tools
+木镐子	mù gǎozi — wooden pickaxe
+石镐子	shí gǎozi — stone pickaxe
+铁镐子	tiě gǎozi — iron pickaxe
+钻石镐子	zuànshí gǎozi — diamond pickaxe
+铁	tiě — iron
+挖不了	wā bù liǎo — can't mine / unable to mine
+只有	zhǐyǒu — only have
+鹅卵石	é luǎn shí — cobblestone
+主意	zhǔyì — idea
+那边	nàbiān — over there
+肯定	kěndìng — definitely
+石头	shítou — stone
+武器	wǔqì — weapons
+多余	duōyú — spare / extra
+铁剑	tiě jiàn — iron sword
+咱们	zánmen — we / us (casual
+跟着	gēnzhe — to follow
+从这里	cóng zhèlǐ — from here
+进去	jìnqù — to go in / enter
+快	kuài — quickly / hurry
+注意	zhùyì — to pay attention / watch out
+周围	zhōuwéi — surroundings / around
+现在	xiànzài — now / currently
+等等	děngděng — wait a moment
+声音	shēngyīn — sound
+好像	hǎoxiàng — seems like / sounds like
+僵尸	jiāngshī — zombie
+准备好了	zhǔnbèi hǎo le — to be ready (lit. prepared successfully)
+攻击	gōngjī — to attack
+打	dǎ / hit
+左边	zuǒbiān — left side
+右边	yòubiān — right side
+哎哟	āiyō — ouch / oh no (exclamation)
+血量	xuèliàng — health points / HP
+耶	yé — yeah / yay (celebration)
+牛	niú — sick / cool (slang)
+666	liù liù liù — awesome / smooth (gaming slang)
+赢了	yíng le — we won
+冲	chōng — charge / let's go
+考试	kǎoshì — exam / test
+参加考试	cānjiā kǎoshì — to take an exam
+考试系统	kǎoshì xìtǒng — exam system
+名字	míngzi — name
+我叫	wǒ jiào — my name is / I am called
+证件	zhèngjiàn — ID / identification document
+学生证	xuéshēngzhèng — student ID card
+手机	shǒujī — mobile phone
+座位	zuòwèi — seat
+座位号	zuòwèi hào — seat number
+号	hào — number (for seats
+换座位	huàn zuòwèi — to switch / change seats
+新座位	xīn zuòwèi — new seat
+空的	kōng de — empty / vacant
+这边	zhèbiān — over here
+前面	qiánmiàn — in front / ahead
+后面	hòumiàn — behind
+旁边	pángbiān — next to / beside
+房间	fángjiān — room
+什么	shénme — what
+是	shì — is / are (linking verb)
+有	yǒu — to have / there is
+在	zài — progressive marker (currently doing something)
+去	qù — to go
+来	lái — to come
+找	zhǎo — to look for / to find
+忘	wàng — to forget
+忘带	wàng dài — to forget to bring
+忘记	wàngjì — to forget
+可以	kěyǐ — may / allowed to (permission)
+能	néng — can / able to (ability)
+需要	xūyào — to need
+请	qǐng — please / to invite
+请问	qǐngwèn — excuse me / may I ask
+请跟我来	qǐng gēn wǒ lái — please follow me
+请去	qǐng qù — please go
+请找我	qǐng zhǎo wǒ — please come find me
+请告诉我	qǐng gàosù wǒ — please tell me
+或者	huòzhě — or (in statements / offers)
+还是	háishi — or (in yes/no choice questions)
+只	zhǐ — only / just
+也	yě — also / too
+还	hái — still / also / in addition
+而且	érqiě — furthermore / also / in addition
+看	kàn — to look / to see
+看一下	kàn yīxià — to take a look at
+看见	kànjiàn — to see / catch sight of
+让我看看	ràng wǒ kàn kan — let me take a look
+让我查一下	ràng wǒ chá yīxià — let me check
+电脑	diànnǎo — computer
+开	kāi — to turn on / to open
+关	guān — to turn off / to close
+重新启动	chóngxīn qǐdòng — to restart
+故障	gùzhàng — malfunction / technical fault
+有故障	yǒu gùzhàng — to have a malfunction
+有问题	yǒu wèntí — to have a problem
+问题	wèntí — problem / question
+技术支持	jìshù zhīchí — technical support
+忘记密码	wàngjì mìmǎ — to forget a password
+重置	chóngzhì — to reset
+重置密码	chóngzhì mìmǎ — to reset a password
+帮	bāng — to help
+帮你	bāng nǐ — to help you
+登录	dēnglù — to log in
+登录不了	dēnglù bu liǎo — unable to log in
+系统	xìtǒng — system
+预约	yùyuē — appointment / reservation
+我有预约	wǒ yǒu yùyuē — I have an appointment
+稍等一下	shāo děng yīxià — please wait a moment
+马上	mǎshàng — right away / immediately
+不好意思	bù hǎo yìsi — excuse me / I'm embarrassed / sorry to bother you
+对不起	duìbuqǐ — I'm sorry (more serious)
+应该的	yīnggāi de — it's what I should do / don't mention it
+谢谢	xièxiè — thank you
+好的	hǎo de — okay / alright
+对了	duì le — correct / that's right
+太吵了	tài chǎo le — too noisy
+安静	ānjìng — quiet
+吵	chǎo — noisy / loud
+太	tài — too / excessively
+呢	ne — question particle (what about...?)
+您好	nín hǎo — hello (formal / polite)
+你好	nǐ hǎo — hello (standard)
+欢迎	huānyíng — welcome
+下次见	xià cì jiàn — see you next time
+今天	jīntiān — today
+出生日期	chūshēng rìqī — date of birth
+告诉	gàosù — to tell
+准备好了吗	zhǔnbèi hǎo le ma — are you ready?
+欢迎光临	huānyíng guānglín — welcome (to our establishment)
+几位	jǐ wèi — how many people (in your party)?
+一位	yī wèi — one person / a party of one
+就我一个人	jiù wǒ yī gè rén — just me alone
+跟我来	gēn wǒ lái — follow me
+桌子	zhuōzi — table
+请坐	qǐng zuò — please sit down
+杯	bēi — cup / glass (measure word for drinks)
+被	bèi — passive marker / quilt (NOT cup — common mix-up with 杯)
+点	diǎn — to order (food); also: a little
+点菜	diǎn cài — to order food/dishes
+准备	zhǔnbèi — to prepare / to be ready
+几分钟	jǐ fēnzhōng — a few minutes
+还没决定	hái méi juédìng — hasn't decided yet
+儿童	értóng — children (formal)
+儿童菜单	értóng càidān — children's menu
+汤	tāng — soup
+碗	wǎn — bowl (measure word for soup
+什么意思	shénme yìsi — what does it mean?
+X的意思是Y	X de yìsi shì Y — the meaning of X is Y
+怎么说	zěnme shuō — how do you say...?
+耐心	nàixīn — patience
+你太好了	nǐ tài hǎo le — you are so nice
+太...了	tài...le — so / too (intensifier pattern)
+哪里哪里	nǎli nǎli — not at all (humble response to compliment)
+过奖了	guòjiǎng le — you flatter me / you're too kind
+请稍等	qǐng shāo děng — please wait a moment (formal)
+稍	shāo — briefly / slightly
+叫	jiào — to call out to; also: to be called/named
+请慢用	qǐng màn yòng — enjoy your meal (lit. please eat slowly)
+不	bù — negates verbs/adjectives (will
+没	méi — negates 有 and past/completed actions
+好吃	hǎo chī — delicious (lit. good to eat)
+看看	kànkan — to have a little look
+想想	xiǎngxiǎng — to think about it a little
+着	zhe — manner/state particle (e.g. 笑着说 — said smilingly) 
+清	qīng — clear / clean (NOT please — common mix-up with 请)
+服务员	fúwùyuán — waiter / service staff
+我在学中文	wǒ zài xué Zhōngwén — I am currently learning Chinese (progressive)
+我准备好了	wǒ zhǔnbèi hǎo le — I am ready (lit. I have become ready — change of state)
+好 can be used as a ____ complement, which means .....	hǎo — resultative complement: successfully completed (e.g. 做好了 — finished doing)
+做好了	zuò hǎo le — finished doing / done successfully
+吃好了	chī hǎo le — finished eating
+写好了	xiě hǎo le — finished writing
+时态	shítài — tense (grammatical)
+状态	zhuàngtài — state / condition
+变化	biànhuà — change
+他 表示 他喜欢篮球	biǎoshì — to indicate / to express
+因为	yīnwèi — because
+大概	dàgài — about / approximately
+左右	zuǒyòu — or so / around (used after a number)
+岁	suì — years old
+年纪	niánjì — age
+老	lǎo — old
+模式	móshì — mode (as in game mode)
+生存模式	shēngcún móshì — survival mode
+创造模式	chuàngzào móshì — creative mode
+冒险模式	màoxiǎn móshì — adventure mode
+极限模式	jíxiàn móshì — hardcore mode
+要不要	yào bu yào — want to or not? (yes/no question pattern)
+有没有	yǒu méi yǒu / Is there any
+不够	bù gòu — not enough
+材料	cáiliào — materials
+木头	mùtou — wood
+工作台	gōngzuòtái — crafting table
+石镐	shí gǎo — stone pickaxe
+木镐	mù gǎo — wooden pickaxe
+铁镐	tiě gǎo — iron pickaxe
+钻石镐	zuànshí gǎo — diamond pickaxe
+铁矿	tiě kuàng — iron ore
+蜘蛛	zhīzhū — spider
+苦力怕	kǔlìpà — creeper
+收集	shōují — to gather / collect
+建	jiàn — to build
+才不是	cái bù shì — no way / that's not true (casual)
+出生点	chūshēng diǎn — spawn point
+When should you use 还是 vs 或者？	
+卡瓦	kǎwǎ — kava
+草药	cǎoyào — herbal / herb
+饮料	yǐnliào — drink / beverage
+放松	fàngsōng — to relax / relaxed
+苦	kǔ — bitter
+椰子壳	yēzi ké — coconut shell
+麻	má — numb / tingly
+嘴	zuǐ — mouth
+酒吧	jiǔbā — bar
+酒精	jiǔjīng — alcohol
+看起来	kàn qǐlái — looks like / seems
+特别	tèbié — special / unusual
+感觉	gǎnjué — feeling / sensation
+让	ràng — to make / to let / to cause
+专注	zhuānzhù — focused / concentration
+精神	jīngshén — energy / alert / spirited
+好喝	hǎo hē — tastes good (for drinks)
+一点	yīdiǎn — a little bit
+加	jiā — to add
+牛奶	niúnǎi — milk
+椰奶	yē nǎi — coconut milk
+口味	kǒuwèi — flavor / taste
+水果	shuǐguǒ — fruit
+美元	měiyuán — US dollar
+块	kuài — colloquial word for dollar / yuan
+别的	bié de — anything else / other things
+礼物	lǐwù — gift / present
+月	yuè — month
+两	liǎng — two (used before measure words)
+快...了	kuài...le — almost / nearly
+软件	ruǎnjiàn — app / software
+播客	bōkè — podcast
+用	yòng — to use
+汉字	hànzì — Chinese characters
+词	cí — vocabulary word
+词汇	cí huì / Vocabulary
+语言	yǔyán — language
+明白	míngbai — to understand
+听不懂	tīng bù dǒng — can't understand by listening
+看不懂	kàn bù dǒng — can't understand by reading
+每天	měitiān — everyday
+每	měi — every (every day
+声调	shēngdiào — tone (as in Mandarin tones)
+语法	yǔfǎ — grammar
+难	nán — difficult
+对我来说	duì wǒ lái shuō — for me / in my opinion
+努力	nǔlì — hardworking / to work hard
+越来越	yuèláiyuè — more and more
+希望	xīwàng — to hope
+有一天	yǒu yītiān — one day / someday
+流利	liúlì — fluent
+干杯	gānbēi — cheers!
+为	wèi — for / in honor of
+开心	kāixīn — happy
+教	jiāo — to teach
+事情	shìqing — things / matters
+麻烦	máfan — trouble / to bother
+麻烦你了	máfan nǐ le — sorry to trouble you
+多久	duō jiǔ — how long (time)
+练习	liànxí — to practice
+朋友	péngyou — friend
+像...一样	xiàng...yīyàng — like / just like (comparison structure)
+孩子	háizi — child / kid
+请求	qǐngqiú — to request / to ask
+直接	zhíjiē — direct / straightforward
+当...的时候	dāng...de shíhou — when / at the time that
+水平	shuǐpíng — level / proficiency
+最	zuì — the most
+乐趣	lèqù — fun / enjoyment (noun)
+那么多	nàme duō — so many / that many
+厉害	"lìhai — impressive / amazing   ""Contains 厂 (a cliff/overhang radical) at the top, suggesting something sharp, steep, intense. Which actually makes sense for 厉害 — the original meaning was closer to ""fierce/sharp"" before it softened into ""impressive."""
+从小	cóng xiǎo — since childhood / growing up
+已经	yǐjīng — already
+来自	láizì — to come from
+佛罗里达州	Fóluólǐdá zhōu — Florida (state)
+州	zhōu — state (US state)
+计算机科学	jìsuànjī kēxué — computer science
+在读	zài dú — currently enrolled in / studying (academic)
+教育学	jiàoyùxué — education (field of study)
+硕士	shuòshì — master's degree
+学位	xuéwèi — academic degree
+认为	rènwéi — to think / to believe (opinion)
+文化	wénhuà — culture
+有意思	yǒu yìsi — interesting
+中学	zhōngxué — middle school / high school
+小学	xiǎoxué — elementary school
+大学	dàxué — university
+开始	kāishǐ — to start / to begin
+所以	suǒyǐ — therefore / so
+进步	jìnbù — to improve / make progress
+别人	biérén — other people
+一种	yī zhǒng — a kind of / a type of
+教过	jiāo guo — have taught before
+数学	shùxué — mathematics
+科学	kēxué — science
+这么多	zhème duō — so much / so many
+大学生	dàxuéshēng — university student
+不同	bùtóng — different / difference
+欣赏	xīnshǎng — to appreciate / admire
+经验	jīngyàn — experience
+帮助	bāngzhù — help / benefit
+教书	jiāoshū — to teach (in a school context)
+容易	róngyì — easily / easy
+受影响	shòu yǐngxiǎng — to be influenced
+影响	yǐngxiǎng — influence
+生活	shēnghuó — life / daily life
+技能	jìnéng — skill
+生活技能	shēnghuó jìnéng — life skills
+面试	miànshì — job interview
+招聘	zhāopìn — recruitment / hiring
+介绍	jièshào — to introduce
+自己	zìjǐ — oneself / yourself
+比如	bǐrú — for example
+首先	shǒuxiān — first of all
+货架	huòjià — shelf/aisle
+洗发水	xǐfǎshuǐ — shampoo
+沐浴露	mùyùlù — body wash
+毛巾	máojīn — towel
+浴巾	yùjīn — bath towel
+洗衣液	xǐyī yè — liquid laundry detergent
+洗衣粉	xǐyī fěn — laundry powder
+用来	yòng lái / used for
+洗	xǐ — to wash
+衣服	yīfu — clothes
+楼	lóu — floor/level of a building
+卖	mài — to sell
+小店	xiǎo diàn — small shop
+听说	tīng shuō — to have heard that
+有名	yǒumíng — famous / well-known
+便宜	piányí — cheap / inexpensive
+好抽	hǎo chōu — good to smoke
+抽	chōu — to smoke (cigarettes)
+哪种	nǎ zhǒng — which kind/type
+品牌	pǐnpái — brand
+过	guo — experiential particle (have ever done something)
+觉得	juéde — to feel / to think
+淡	dàn — mild / bland / light
+南	nán — south
+北	běi — north
+东	dōng — east
+西	xī — west
+南部	nánbù — the south (of a country/region)
+天气	tiānqì — weather
+城市	chéngshì — city
+住	zhù — to live/stay
+墨尔本	mò'ěrběn — Melbourne
+北京	běijīng — Beijing
+澳大利亚	àodàlìyǎ — Australia
+怎么样	zěnme yàng — how is it / what's it like
+食物	shíwù — food (general)
+菜	cài — dish / cuisine
+烤鸭	kǎoyā — roast duck
+还要	hái yào / More
+完美	wánměi — perfect
+下午	xiàwǔ — afternoon
+决定	juédìng — to decide
+推荐	tuījiàn — to recommend
+信任	xìnrèn — to trust
+软包	ruǎn bāo — soft pack
+一包	yī bāo — one pack
+球衣	qiúyī — jersey / team shirt
+湖人队	Húrén duì — the Lakers
+超级	chāojí — super / extremely (colloquial)
+球迷	qiúmí — sports fan
+一般	yì bān / Average
+好看	hǎokàn — good-looking / fun to watch
+好玩	hǎowán — fun / entertaining
+懂	dǒng — to know about / understand something
+高	gāo — tall
+冠军	guànjūn — championship / champion
+今年	jīnnián — this year
+永远	yǒngyuǎn — always / forever
+混	hùn — to mix up
+别	bié — don't
+这么	zhème — like this / so
+流行	liúxíng — popular / trendy
+应该	yīnggāi — should
+体育馆	tǐyùguǎn — sports arena / gymnasium
+体育	tǐyù — sports / physical education
+地铁	dìtiě — subway / metro
+方便	fāngbiàn — convenient
+到	dào — to arrive / reach
+了解	liǎojiě — to know about / understand well
+中国的篮球	Zhōngguó de lánqiú — basketball in China
+从哪里来	cóng nǎlǐ lái — where are you from
+我___看过中国篮球比赛。(没 or 不?) Which is correct and why?	没 — use 没 (not 不) to negate experiential 过 (completed experiences)
+"乐趣是名词。""He is very fun"" — 他很乐趣 or 他很好玩？Which is correct and why?"	他很好玩 — 乐趣 is a noun so it cannot follow 很. Use 好玩 or 有意思 instead 
+Basketball in China — 篮球的中国 or 中国的篮球？Which is correct and why?	中国的篮球 — in Chinese the descriptor comes BEFORE the noun. 的 links descriptor to noun
+为___我喜欢湖人队。(为么 or 为什么?) Which is correct and why?	为什么 — 为么 does not exist. 为什么 (wèishénme) is always three characters
+对我来说，中文很___。(难 or 好?) Which fits and why?	"难 — 对我来说 means ""for me / from my perspective."" 难 (difficult) makes a logical opinion statement. 好 would mean ""Chinese is good for me"" which is different."
+你___我很好。(对 or 关于?) Which is correct and why?	"对 — 对+person means ""toward someone."" 你对我很好 = you are good toward me. 关于 is for topics of discussion not people."
+我对篮球很感___趣。What character fills the blank and why?	"兴 — the fixed expression is 感兴趣 (gǎn xìngqù) meaning ""to be interested in."" 对+topic+感兴趣 = to be interested in something."
+我写了一本书_____篮球。(对 or 关于?) Which is correct and why?	"关于 — 关于 means ""about/concerning"" for topics of discussion. 对 implies physical/emotional orientation toward something. A book is ""about"" a topic not ""toward"" it."
+"对不起 literally means what? And why does that make it mean ""sorry""?"	"对不起 literally means ""incorrect toward you"" — 对 (toward) + 不 (not) + 起 (rise/correct). Meaning: I have failed in my orientation toward you."
+他对工作很___真。What character fills the blank?	认 — the word is 认真 (rènzhēn) meaning serious/earnest. 他对工作很认真 = he is very serious about his work.
+这个电影很___。(interesting)	"有意思 — one word, means interesting, not ""has meaning"""
+珍珠奶茶	zhēnzhū nǎichá — bubble tea
+珍珠	zhēnzhū — tapioca pearls / pearls
+奶茶	nǎichá — milk tea
+女朋友	nǚ péngyou — girlfriend
+一会儿	yīhuìr — in a little while / shortly
+爆	bào — to pop / to burst
+完全	wánquán — completely / exactly
+东西	dōngxi — thing / stuff
+有点	yǒu diǎn — a little / kinda
+甜	tián — sweet
+更像	gèng xiàng — more like
+一半	yī bàn — half
+"How do you say ""about half sweet""?"	大概一半甜 — dàgài yī bàn tián 
+"How do you say ""not too sweet and not too mild""?"	不太甜也不太淡 — bù tài tián yě bù tài dàn
+"How do you say ""approximately [amount]""?"	大概___左右 — dàgài___ zuǒyòu 
+"How do you say ""kind of like [X] but not exactly""?"	有点像___,   yǒu diǎn xiàng___,  但是不完全是.  dànshì bù wánquán shì.
+"How do you say ""it's the thing used for [action]""?"	就是那个用来___的东西 — jiù shì nà ge yòng lái___ de dōngxi 
+"How do you say ""I forgot how to say it""?"	我忘了怎么说 — wǒ wàng le zěnme shuō
+"How do you say ""not very [X] more like a little [Y]""?"	不是很___更像有点___ — bù shì hěn___ gèng xiàng yǒu diǎn___
+绿茶	lǜ chá — green tea
+迷路了	mí lù le — got lost
+然后	ránhòu — and then / after that
+离这里	lí zhèlǐ — from here / away from here
+不太远	bù tài yuǎn — not too far
+走路	zǒulù — to walk
+地铁站	dìtiě zhàn — subway station
+只要	zhǐyào — as long as
+五分钟	wǔ fēnzhōng — five minutes
+很高兴认识你	hěn gāoxìng rènshi nǐ — nice to meet you
+多久了	duō jiǔ le — how long (have you been here)?
+环境	huánjìng — environment / atmosphere / surroundings
+星期	xīngqī — week
+热闹	rènao — lively / bustling
+成都人	Chéngdū rén — a person from Chengdu
+才	cái / Talent
+理科	lǐkē — science (as a school subject)
+高中	gāozhōng — high school
+高中生	gāozhōngshēng — high school student
+初中	chūzhōng — middle school / junior high
+初中生	chūzhōngshēng — middle school student
+去年	qùnián — last year
+对对对	duì duì duì — yeah yeah exactly (natural filler)
+有时候	yǒu shíhou — sometimes
+没电了	méi diàn le — out of battery / dead (for devices)
+真	zhēn — really / truly
+门票	ménpiào — entrance / admission ticket
+地铁票	dìtiě piào — subway ticket
+两个都	liǎng gè dōu — both / both of them
+因为不同的原因	yīnwèi bùtóng de yuányīn — for different reasons
+公立学校	gōnglì xuéxiào — public school
+私立学校	sīlì xuéxiào — private school
+积极	jījí — positive / proactive
+产生积极的影响	chǎnshēng jījí de yǐngxiǎng — to make a positive impact
+一年	yī nián — one year (no measure word needed — 年 stands alone)
+你叫什么名字？	nǐ jiào shénme míngzi? — What is your name?
+"How do you say ""What is your name?"" in Chinese?"	你叫什么名字？— nǐ jiào shénme míngzi? 
+你来中国多久了？	nǐ lái Zhōngguó duō jiǔ le? — How long have you been in China?
+"How do you say ""How long have you been in China?"""	你来中国多久了？— nǐ lái Zhōngguó duō jiǔ le? 
+我去超市，然后迷路了。	wǒ qù chāoshì ránhòu mí lù le — I went to the supermarket and then got lost.
+"How do you say ""I went to the supermarket and then got lost""?"	我去超市，然后迷路了。— wǒ qù chāoshì ránhòu mí lù le
+我不知道我在哪里。	wǒ bù zhīdào wǒ zài nǎlǐ — I don't know where I am.
+"How do you say ""I don't know where I am""?"	我不知道我在哪里。— wǒ bù zhīdào wǒ zài nǎlǐ 
+在公立学校教书，我觉得我对学生产生了积极的影响。	zài gōnglì xuéxiào jiāoshū wǒ juéde wǒ duì xuésheng chǎnshēng le jījí de yǐngxiǎng — Teaching in a public school I feel like I make a positive impact on students.
+"How do you say ""Teaching in a public school I feel like I make a positive impact on students""?"	在公立学校教书，我觉得我对学生产生了积极的影响。— zài gōnglì xuéxiào jiāoshū wǒ juéde wǒ duì xuésheng chǎnshēng le jījí de yǐngxiǎng
+In Chinese does TIME come before or after the verb?	Time comes BEFORE the verb — e.g. 我去年在高中家教 (last year comes before 在高中家教)
+In Chinese does PLACE come before or after the verb?	Place comes BEFORE the verb — e.g. 我在成都学中文 (在成都 comes before 学中文) 
+Where does 在 go when showing a progressive action (currently doing something)?	在 comes BEFORE the verb — e.g. 我在学中文 (I am currently learning Chinese)
+"For ""two"" before a measure word do you use 二 or 两?"	Use 两 — e.g. 两个星期 (two weeks) 两块钱 (two yuan). 二 is used for counting or numbers in a sequence.
+Which measure word does 星期 need?	星期 needs 个 — e.g. 一个星期 (one week) 两个星期 (two weeks)
+Which measure word does 年 need?	年 needs NO measure word — e.g. 一年 (one year) 两年 (two years) 
+Which measure word does 月 need?	月 needs 个 — e.g. 一个月 (one month) 两个月 (two months) 
+"When asking ""what is X called"" where does 什么 go?"	什么 comes BEFORE 名字 — e.g. 你叫什么名字？NOT 你叫名字什么？ 
+"To say ""X is Y"" with adjectives do you use 是 or 很?"	Use 很 not 是 — e.g. 他们很好 (they are good). 是 links two nouns not adjectives.
+远	yuǎn — far
+近	jìn — close / near
+不太远	bù tài yuǎn — not too far
+不太近	bù tài jìn — not too close
+很近	hěn jìn — very close / nearby
+离这里很近	lí zhèlǐ hěn jìn — very close from here
+离这里很远	lí zhèlǐ hěn yuǎn — very far from here
+左转	zuǒ zhuǎn — turn left
+右转	yòu zhuǎn — turn right
+直走	zhí zǒu — go straight
+路口	lùkǒu — intersection / junction
+红绿灯	hónglǜdēng — traffic light
+过了红绿灯	guò le hónglǜdēng — after you pass the traffic light
+走路大概五分钟	zǒulù dàgài wǔ fēnzhōng — about a five minute walk
+"How do you say ""turn left at the traffic light""?"	在红绿灯左转 — zài hónglǜdēng zuǒ zhuǎn
+"How do you say ""go straight and it's up ahead""?"	直走，前面就是 — zhí zǒu qiánmiàn jiù shì 
+"How do you say ""it's about a 5 minute walk from here""?"	离这里走路大概五分钟 — lí zhèlǐ zǒulù dàgài wǔ fēnzhōng 
+前面就是	qiánmiàn jiù shì — it's right up ahead
+就在旁边	jiù zài pángbiān — right next to / just beside
+对面	duìmiàn — opposite / across from
+在X对面	zài___ duìmiàn — across from ___ / opposite ___
+"How would you say ""that's why I'm here""?"	所以我在这儿 — suǒyǐ wǒ zài zhèr
+"How would you say ""after arriving""?"	来了以后 — lái le yǐhòu
+"How would you say ""I forgot to bring [something]"""	我忘带了___ — wǒ wàng dài le ___
+"How would you say ""I heard that...""?"	我听说___ — wǒ tīng shuō ___
+"How would you say ""sorry to bother you / excuse me""?"	不好意思 — bù hǎo yìsi
+"How would you say ""my password is written on it""?"	上面写着我的密码 — shàngmiàn xiě zhe wǒ de mìmǎ
+"How would you say ""I'd like to ask something""?"	我想问一下 — wǒ xiǎng wèn yīxià
+"How would you say ""I don't know where it is""?"	我不知道在哪里 — wǒ bù zhīdào zài nǎlǐ
+"How would you say ""thank you for your help""?"	谢谢你的帮助 — xièxiè nǐ de bāngzhù
+"How would you say ""if I can't log in""?"	如果登录不了 — rúguǒ dēnglù bu liǎo
+"How would you say ""walk left for about 5 minutes and you'll be there""?"	往左走大概五分钟就到了 — wǎng zuǒ zǒu dàgài wǔ fēnzhōng jiù dào le
+"How would you say ""that's why I'm here studying Chinese""?"	所以我在这儿学中文 — suǒyǐ wǒ zài zhèr xué zhōngwén
+国际	guójì — international
+办理	bànlǐ — to handle / process (admin tasks)
+入学手续	rùxué shǒuxù — enrollment procedures
+护照	hùzhào — passport
+找到了	zhǎodào le — found it!
+居留证	jūliúzhèng — Alien Resident Certificate (ARC)
+关于	guānyú — regarding / about
+来了以后	lái le yǐhòu — after arriving
+三楼	sān lóu — third floor
+门卡	ménkǎ — key card / door card
+图书馆	túshūguǎn — library
+登记	děngjì — to register
+就到了	jiù dào le — and you'll be there
+往左走	wǎng zuǒ zǒu — walk left / turn left
+栋	dòng — measure word for buildings
+商场	shāngchǎng — shopping mall
+西裤	xīkù — dress pants / trousers (formal)
+裤子	kùzi — pants / trousers (general)
+加油	jiāyóu — keep it up / you got this
+最后	zuìhòu — last / final
+一件事	yī jiàn shì — one thing (件 is measure word for matters)
+网站	wǎngzhàn — website
+新	xīn — new
+试试	shìshi — to give it a try / to try out
+笔记本	bǐjìběn — notebook
+上面写着	shàngmiàn xiě zhe — written on it / it says on here
+旅游礼物	lǚyóu lǐwù — souvenir / travel gift
+[Action]了以后	[action] + 了 + 以后 — after [action] happens (e.g. 来了以后 — after arriving; 吃了以后 — after eating)
+就是 vs 是	就是 — it's precisely / exactly that; 是 — simple linking verb (A is B)
+所以 vs 那就是为什么	use 所以 for 'that's why' — Chinese doesn't use 为什么 as a noun like English uses 'why']
+我这里还有	wǒ zhèlǐ hái yǒu — on my end there is also / I also have one more thing
+这本笔记本	zhè běn bǐjìběn — this notebook (本 is the correct measure word for notebooks)
+臺灣	Táiwān — Taiwan
+臺北	Táiběi — Taipei (capital city)
+高雄	Gāoxióng — Kaohsiung (second largest city)
+臺中	Táizhōng — Taichung (central Taiwan city)
+捷運	jiéyùn — MRT / metro (Taiwan-specific term)
+[Taiwan] 計程車	jìchéngchē — taxi (Taiwan term; mainland uses 出租車)
+夜市	yèshì — night market
+小吃	xiǎochī — street food / snacks
+便利商店	biànlì shāngdiàn — convenience store
+超商	chāoshāng — convenience store (casual short form used in Taiwan)
+悠遊卡	Yōuyóu kǎ — EasyCard (Taiwan's transit/payment card)
+[Taiwan slang] 拜拜	bàibài — bye bye (Taiwanese say this instead of 再見 in casual speech)
+[Taiwan slang] 好可以	hěn kěyǐ — that works / pretty good (casual approval)
+[Taiwan slang] 欸	ēi — hey / huh (softening particle used constantly in Taiwan)
+[Taiwan slang] 啦	la — softening particle (adds friendliness e.g. 沒關係啦)
+[Taiwan slang] 喔	ō — softening particle (adds warmth / mild acknowledgment)
+[Taiwan slang] 水	shuǐ — cool / nice (Taiwanese Hokkien-influenced slang)
+繁體字	fántǐzì — traditional Chinese characters (used in Taiwan; mainland uses simplified)
+國語	"guóyǔ — Mandarin as spoken in Taiwan (literally ""national language"")"
+老闆	lǎobǎn — boss / vendor (used to get a street vendor's attention)
+老闆娘	lǎobǎn niáng — female boss / vendor (used to address a female vendor)
+"How would you say ""one ticket please"" (e.g. MRT)?"	一張票謝謝 — yī zhāng piào xièxiè  (Traditional Chinese - Taiwan)
+"How would you say ""how do I get to [place]""?"	請問怎麼去___？— qǐngwèn zěnme qù___?
+"How would you say ""where is the nearest MRT station""?"	請問最近的捷運站在哪裡？— qǐngwèn zuìjìn de jiéyùn zhàn zài nǎlǐ?
+"How would you say ""I'll take one of those"" (at a food stall)?"	我要一個這個 — wǒ yào yī gè zhège
+新北	Xīnběi — New Taipei (most populous city in Taiwan)
+桃園	Táoyuán — Taoyuan (location of main international airport)
+"How would you say ""do you have an English menu""?"	有沒有英文菜單？— yǒu méiyǒu yīngwén càidān?
+在verb chain里，了放在哪里？	了 goes at the END of the whole verb chain not after the first verb — wǒ wàng dài le not wǒ wàng le dài
+verb + 一下 的语法作用是什么？	softens and casualizes the verb — makes it sound brief and low-effort. wèn = ask / wèn yīxià = just ask real quick
+为什么 好可以 里的 好 读 hǎo 不读 hěn？	in Taiwan colloquial usage 好 acts as an intensifier meaning so/really like 很 — still pronounced hǎo not hěn
+为什么中文里不需要说请？	context + 谢谢 provides the politeness — bare requests are not rude in Chinese the way they are in English
+传统	chuántǒng — traditional
+现代	xiàndài — modern
+开放	kāifàng — open-minded / liberal
+纹身	wénshēn — tattoo
+偏见	piānjiàn — bias / prejudice
+政府	zhèngfǔ — government
+机构	jīgòu — institution / office
+比较	bǐjiào — relatively / comparatively
+年轻人	niánqīng rén — young people
+大部分	dàbùfen — most / the majority of
+要求	yāoqiú — to require
+想法	xiǎngfǎ — idea / way of thinking
+美术	měishù — fine arts
+艺术	yìshù — art
+艺术学校	yìshù xuéxiào — art school
+年级	niánjí — grade / year level
+随便	suíbiàn — laid-back / casual / easygoing
+外国人	wàiguórén — foreigner
+难得	nándé — rare / hard to come by
+惊讶	jīngyà — surprised
+课堂	kètáng — classroom
+偷懒	tōulǎn — to slack off / take the easy way out
+没有办法	méiyǒu bànfǎ — no way to / can't
+秘密	mìmì — secret
+待	dāi — to stay somewhere
+资助	zīzhù — to fund / sponsor
+奖学金	jiǎngxuéjīn — scholarship / grant
+旅游费用	lǚyóu fèiyòng — travel expenses
+支付	zhīfù — to pay for
+把	bǎ — particle that moves object before verb
+盖住	gài zhù — to cover up
+确实	quèshí — indeed / really true
+勇敢	yǒnggǎn — brave / courageous
+哪种饮料没有牛奶？	nǎ zhǒng yǐnliào méiyǒu niúnǎi — which kind of drink has no milk?
+我比较喜欢不甜的	wǒ bǐjiào xǐhuān bù tián de — I prefer the not-sweet kind
+我在网上看到麻婆豆腐	wǒ zài wǎngshàng kàn dào má pó dòufu — I saw mapo tofu online
+你以前做过麻婆豆腐吗？	nǐ yǐqián zuò guo má pó dòufu ma — have you ever made mapo tofu before?
+我学了三个星期	wǒ xué le sān gè xīngqī — I have been studying for three weeks
+零食	líng shí / Snacks
+果汁	guǒzhī — fruit juice
+糖	táng — sugar
+红茶	hóng chá — black tea (red tea)
+茶叶	chá yè — tea leaves
+瓶装	píng zhuāng — bottled
+一瓶	yī píng — one bottle
+拿	ná — to grab / to get
+麻婆豆腐	má pó dòufu — mapo tofu
+川菜	Chuāncài — Sichuan cuisine
+豆腐	dòufu — tofu
+肉末	ròumò — ground meat
+豆瓣酱	dòubàn jiàng — spicy bean paste
+花椒	huājiāo — Sichuan peppercorns
+大蒜	dàsuàn — garlic
+姜	jiāng — ginger
+葱	cōng — green onion
+辣	là — spicy
+真正的	zhēnzhèng de — authentic / real
+网上	wǎngshàng — online
+清爽	qīngshuǎng — refreshing
+好几种	hǎo jǐ zhǒng — several kinds
+你来对地方了	nǐ lái duì dìfāng le — you came to the right place
+所有东西都有	suǒyǒu dōngxi dōu yǒu — we have everything
+verb+到 = action reached its goal (看到=saw it / 找到=found it / 听到=heard it)	verb + 到 — shows the action succeeded or reached its target
+adjective+的 at end of sentence does what for the adjective?	"adjective + 的 — turns adjective into noun phrase meaning ""the [adj] one"" "
+过 after verb = have ever done something (做过=have ever made / 吃过=have ever eaten)	"verb + 过 — experiential particle meaning ""have ever done"""
+音乐节	yīnyuè jié — music festival
+流行音乐	liúxíng yīnyuè — pop music
+摇滚乐	yáogǔn yuè — rock music
+摇滚	yáogǔn — rock (music)
+太棒了	tài bàng le — awesome / fantastic
+乱	luàn — chaotic / messy
+节奏	jiézòu — rhythm / beat
+奇怪	qíguài — strange / weird
+电子音乐	diànzǐ yīnyuè — electronic music
+风格	fēnggé — style / genre
+入乡随俗	rù xiāng suí sú — when in Rome do as the Romans do
+酷	kù — cool
+旋律	xuánlǜ — melody
+歌词	gēcí — lyrics
+鼓	gǔ — drums
+吉他	jítā — guitar
+钢琴	gāngqín — piano
+贝斯	bèisī — bass guitar
+键盘	jiànpán — keyboard
+小提琴	xiǎotíqín — violin
+合唱	héchàng — chorus / choir
+副歌	fùgē — chorus / refrain (of a song)
+间奏	jiānzòu — instrumental break / interlude
+音量	yīnliàng — volume
+沙茶鸡	shā chá jī — Sha Cha Chicken
+沙茶酱	shā chá jiàng — Sha Cha sauce
+一道	yī dào — measure word for dishes/courses
+它	tā — it (for objects/animals/things)
+食材	shícái — ingredients
+有卖	yǒu mài — have it for sale / carry it
+调料区	tiáoliào qū — condiments/sauces aisle
+区	qū — zone / area / section
+酱油	jiàng yóu — soy sauce
+盐	yán — salt
+胡椒	hújiāo — pepper
+我想做沙茶鸡。	Wǒ xiǎng zuò shā chá jī. — I want to make Sha Cha Chicken.
+请问沙茶酱在哪里？	Qǐngwèn shā chá jiàng zài nǎlǐ? — Excuse me where is the Sha Cha sauce?
+我想做一道菜。	Wǒ xiǎng zuò yī dào cài. — I want to make a dish.
+它叫沙茶鸡。	Tā jiào shā chá jī. — It's called Sha Cha Chicken.
+我需要买食材。	Wǒ xūyào mǎi shícái. — I need to buy ingredients.
+我们这里有卖沙茶酱。	Wǒmen zhèlǐ yǒu mài shā chá jiàng. — We carry Sha Cha sauce here.
+沙茶酱在调料区。	Shā chá jiàng zài tiáoliào qū. — Sha Cha sauce is in the condiments aisle.
+肉区在哪里？	Ròu qū zài nǎlǐ? — Where is the meat section?
+沙茶鸡需要酱油。	Shā chá jī xūyào jiàng yóu. — Sha Cha Chicken needs soy sauce.
+请问姜在哪里？	Qǐngwèn jiāng zài nǎlǐ? — Excuse me where is the ginger?
+我需要姜和大蒜。	Wǒ xūyào jiāng hé dàsuàn. — I need ginger and garlic.
+这个菜需要一点盐。	Zhège cài xūyào yīdiǎn yán. — This dish needs a little salt.
+你要加胡椒吗？	Nǐ yào jiā hújiāo ma? — Do you want to add pepper?
+这个怎么卖？	zhège zěnme mài — how much is this / how is it sold?
+有没有别的颜色？	yǒu méiyǒu bié de yánsè — do you have other colors?
+在哪里可以买到？	zài nǎlǐ kěyǐ mǎidào — where can I buy this?
+这个是用来做什么的？	zhège shì yòng lái zuò shénme de — what is this used for?
+你可以说慢一点吗？	nǐ kěyǐ shuō màn yīdiǎn ma — can you speak a little slower?
+你可以说快一点吗？	nǐ kěyǐ shuō kuài yīdiǎn ma — can you speak a little faster?
+你可以再说一次吗？	nǐ kěyǐ zài shuō yī cì ma — can you say that again?
+你可以说得更清楚吗？	nǐ kěyǐ shuō de gèng qīngchǔ ma — can you speak more clearly?
+我可以练习中文吗	wǒ kěyǐ liànxí zhōngwén ma — Can I practice Chinese?
+这个中文怎么说？	zhège zhōngwén zěnme shuō — how do you say this in Chinese?
+我听不懂，可以解释吗？	wǒ tīng bù dǒng kěyǐ jiěshì ma — I don't understand can you explain?
+我的中文还不太好，请耐心一点。	wǒ de zhōngwén hái bù tài hǎo qǐng nàixīn yīdiǎn — my Chinese isn't very good yet please be patient
+听起来很好听！	tīng qǐlái hěn hǎotīng — that sounds great!
+这个声音是什么？	zhège shēngyīn shì shénme — what is that sound?
+好像有人在说话。	hǎoxiàng yǒu rén zài shuōhuà — it sounds like someone is talking
+对了，我想问一下。	duì le wǒ xiǎng wèn yīxià — oh right I wanted to ask something
+其实我不太明白。	qíshí wǒ bù tài míngbai — actually I don't quite understand
+没关系，我们继续吧。	méi guānxi wǒmen jìxù ba — it's okay let's continue
+我忘了怎么说。	wǒ wàng le zěnme shuō — I forgot how to say it
+可以帮我翻译吗？	kěyǐ bāng wǒ fānyì ma — can you translate this for me?
+我想买这个，多少钱？	wǒ xiǎng mǎi zhège duōshǎo qián — I want to buy this how much is it?
+这里有没有___？	zhèlǐ yǒu méiyǒu ___ — do you have ___ here?
+请问，厕所在哪里？	qǐngwèn cèsuǒ zài nǎlǐ — excuse me where is the bathroom?
+我可以看一下吗？	wǒ kěyǐ kàn yīxià ma — can I take a look?
+不好意思，我有一个问题。	bù hǎo yìsi wǒ yǒu yī gè wèntí — excuse me I have a question
+我听说这里很有名。	wǒ tīng shuō zhèlǐ hěn yǒumíng — I heard this place is famous
+你推荐什么？	nǐ tuījiàn shénme — what do you recommend?
+我对___很感兴趣。	wǒ duì ___ hěn gǎn xìngqù — I am very interested in ___
+我来自美国。	wǒ láizì měiguó — I come from America
+我在学中文，所以请耐心一点。	wǒ zài xué zhōngwén suǒyǐ qǐng nàixīn yīdiǎn — I'm learning Chinese so please be patient
+症状	zhèngzhuàng — symptoms
+诊所	zhěnsuǒ — clinic
+不舒服	bù shūfu — unwell / uncomfortable
+发烧	fāshāo — fever
+流鼻涕	liú bítì — runny nose
+脸色	liǎnsè — complexion / face color
+热	rè — hot / feeling hot
+身体	shēntǐ — body
+过敏	guòmǐn — allergy / allergic
+对___过敏	duì___guòmǐn — allergic to ___
+药	yào — medicine
+花生	huāshēng — peanut
+海鲜	hǎixiān — seafood
+热心	rèxīn — warm-hearted / helpful (adjective)
+早日康复	zǎorì kāngfù — get well soon
+登记完了	děngjì wán le — registration is done / finished registering
+十三号	shísān hào — the 13th (date format)
+我从星期一开始就感冒了。	wǒ cóng xīngqī yī kāishǐ jiù gǎnmao lè — I've had a cold since Monday.
+我可不可以看医生？	wǒ kě bu kěyǐ kàn yīshēng — Can I see a doctor?
+我两个星期前来了这儿。	wǒ liǎng gè xīngqī qián lái le zhèr — I arrived here two weeks ago.
+我没有看过医生。	wǒ méiyǒu kàn guo yīshēng — I haven't seen a doctor before (here).
+我发烧了。	wǒ fāshāo le — I have a fever.
+我流鼻涕。	wǒ liú bítì — I have a runny nose.
+我脸色不好。	wǒ liǎnsè bù hǎo — My complexion is bad / I look unwell.
+你有没有对什么东西过敏？	nǐ yǒu méiyǒu duì shénme dōngxi guòmǐn — Are you allergic to anything?
+我对___过敏。	wǒ duì___guòmǐn — I am allergic to ___.
+你帮了我很多！	nǐ bāng le wǒ hěn duō — You helped me a lot!
+你帮了我很多，而且很有耐心！	nǐ bāng le wǒ hěn duō érqiě hěn yǒu nàixīn — You helped me a lot and were very patient!
+请稍等一下，医生马上来。	qǐng shāo děng yīxià yīshēng mǎshàng lái — Please wait a moment the doctor will be right with you.
+我什么都能吃。	wǒ shénme dōu néng chī — I can eat anything.
+我什么都吃。	wǒ shénme dōu chī — I eat everything.
+我什么也不吃。	wǒ shénme yě bù chī — I won't eat anything / I eat nothing.
+我哪里都去。	wǒ nǎlǐ dōu qù — I'll go anywhere.
+谁都知道。	shéi dōu zhīdào — Everyone knows.
+我什么时候都可以。	wǒ shénme shíhou dōu kěyǐ — Anytime works for me.
+疑问词+都=任何东西	interrogative word + 都 = everything/everyone/anywhere (universal statement pattern)
+疑问词+也+不/没=什么都没有	question word + 也 + 不/没 = nothing/nobody/nowhere (negative universal pattern)
+二零零二年十月十三号	èr líng líng èr nián shíyuè shísān hào — October 13th 2002 (date format: year month day)
+邻居	línjū — neighbor
+四川	Sìchuān — Sichuan (province in southwest China)
+妻子	qīzi — wife
+习惯	xí guàn / habit
+害羞	hàixiū — shy
+也许	yěxǔ — maybe / perhaps
+陌生人	mòshēng rén — stranger
+挑剔	tiāoti — picky / fussy
+橘色	júsè — orange color
+橘子	júzi — tangerine / orange (also a common pet name)
+沙发	shā fā / Sofa
+搬	bān — to move (furniture / boxes)
+搬不了	bān bu liǎo — unable to move it
+轮子	lúnzi — wheels
+重	zhòng — heavy
+手推车	shǒutuīchē — dolly / hand truck
+学习	xuéxí — to study / to learn (more formal than 学)
+作为回报	zuòwéi huíbào — in return / as repayment
+有意义	yǒu yìyì — meaningful / significant
+毕业设计项目	bìyè shèjì xiàngmù — senior design project
+感谢信	gǎnxiè xìn — thank you letter
+打字	dǎ zì — to type (on a keyboard)
+一封	yī fēng — one letter (封 is the measure word for letters)
+团队	tuánduì — team / group
+善良	shànliáng — kind / good-hearted
+体贴	tǐtiē — caring / considerate / attentive to others' needs
+付出	fùchū — dedication / what one puts in / effort given
+教授	jiàoshòu — professor
+让我认识了	ràng wǒ rènshi le — introduced me to / helped me get to know
+兴奋	xīngfèn — excited
+期待	qīdài — to look forward to / to anticipate
+未来	wèilái — the future
+明年	míngnián — next year
+敬上	jìng shàng — respectfully yours (formal letter sign-off)
+您	nín — you (formal / respectful form of 你)
+我已经学中文三个月了	wǒ yǐjīng xué zhōngwén sān gè yuè le — I have been studying Chinese for three months already (duration pattern with 已经...了)
+我好像没有告诉过你	wǒ hǎoxiàng méiyǒu gàosù guo nǐ — I don't think I've told you before (没有+verb+过 = negative experiential pattern)
+我认为写一封感谢信是非常有意义的事情	wǒ rènwéi xiě yī fēng gǎnxiè xìn shì fēicháng yǒu yìyì de shìqing — I think writing a thank you letter is a very meaningful thing
+我在你的团队学了很多	wǒ zài nǐ de tuánduì xué le hěn duō — I learned a lot in your team (place before verb pattern)
+我明年要读教育学硕士	wǒ míngnián yào dú jiàoyùxué shuòshì — I am going to pursue a master's in education next year
+我非常兴奋，也很期待未来	wǒ fēicháng xīngfèn yě hěn qīdài wèilái — I am very excited and also really looking forward to the future
+形容词不用是 — 直接用很/非常	adjectives do not use 是 — use 很 or 非常 directly (e.g. 你很好 not 你是好)
+我在学中文学了___了	wǒ zài xué zhōngwén xué le ___le — I have been studying Chinese for ___ (verb-repeat duration pattern: verb + 了 + time + 了)
+形容词	Adjective
+项目	Xiàngmù - Project
+chinese	pinyin & english
+嗨	hāi / Hi
+视频	shì pín / video
+来聊	lái liáo / come chat
+一聊	yī liáo / Let’s chat
+宠物	chǒng wù / pet
+点半	diǎn bàn / half past
+点到	diǎn dào / click to
+点钟	diǎn zhōng / o'clock
+一只	yī zhī / one
+养	yǎng / raise
+各种各样	gè zhǒng gè yàng / Various
+宠物猫	chǒng wù māo / pet cat
+乌龟	wū guī / turtle
+小鸟	xiǎo niǎo / birdie
+兔子	tù zi / rabbit
+马猪	mǎ zhū / horse pig
+黄油	huáng yóu / butter
+恐龙	kǒng lóng / dinosaur
+穿着	chuān zhe / wear
+黄色	huáng sè / yellow
+样子	yàng zi / appearance
+尾巴	wěi ba / tail
+乖	guāi / Be good
+摸	mō / touch
+头	tóu / head
+窗外	chuāng wài / outside the window
+奥特曼	ào tè màn / ultraman
+日本	rì běn / Japan
+动画片	dòng huà piàn / cartoon
+人物	rén wù / characters
+小猫	xiǎo māo / kitten
+很乖	hěn guāi / Very well behaved
+第四	dì sì / Fourth
+上面	shàng miàn / above
+糖糖	táng táng / Tangtang
+母猫	mǔ māo / female cat
+母	mǔ / mother
+这三只	zhè sān zhǐ / These three
+公	gōng / public
+公猫	gōng māo / male cat
+男孩	nán hái / boy
+小女孩	xiǎo nǚ hái / little girl
+另外	lìng wài / In addition
+两只	liǎng zhǐ / two
+笼子	lóng zi / cage
+房	fáng / room
+房在	fáng zài / The room is here
+猫叫	māo jiào / meow
+胖胖	pàng pàng / Fatty
+阿里巴巴	ā lǐ bā bā / Alibaba
+小巴	xiǎo bā / minibus
+经常	jīng cháng / often
+打架	dǎ jià / fight
+啪啪	pā pā / bang bang
+啪	pā / snap
+相处	xiāng chǔ / get along
+客厅	kè tīng / living room
+里会	lǐ huì / Lihui
+地上	dì shàng / on the ground
+地板	dì bǎn / floor
+装满	zhuāng mǎn / full
+粮	liáng / grain
+其他	qí tā / Others
+粮碗	liáng wǎn / grain bowl
+放在	fàng zài / put on
+垫子	diàn zi / mat
+为了	wèile — in order to / for the purpose of
+防止	fáng zhǐ / prevent
+洒	sǎ / sprinkle
+会洒	huì sǎ / Will spill
+下面	xià miàn / below
+垫	diàn / pad
+砂盆	shā pén / sand basin
+厕所	cè suǒ / toilet
+猫会	māo huì / Cat Club
+一边	yī biān / aside
+饮水机	yǐn shuǐ jī / water dispenser
+它会	tā huì / it will
+自动	zì dòng / automatic
+出水	chū shuǐ / Out of water
+当	dāng / when
+流下来	liú xià lái / flow down
+这样的话	zhè yàng de huà / In this case
+粮桶	liáng tǒng / Grain bucket
+一个桶	yí gè tǒng / a bucket
+桶	tǒng / bucket
+放	fàng / put
+很多	hěn duō / a lot
+盖	gài / cover
+盖子	gài zi / cover
+拧开	níng kāi / Unscrew
+打开	dǎ kāi / open
+存放	cún fàng / store
+干燥	gān zào / dry
+湿	shī / wet
+干燥剂	gān zào jì / Desiccant
+变坏	biàn huài / go bad
+盖上	gài shàng / cover
+一个碗	yí gè wǎn / a bowl
+格子	gé zi / grid
+一二三四	yī èr sān sì / one two three four
+这样	zhè yàng / This way
+吃零食	chī líng shí / Eat snacks
+带有	dài yǒu / with
+盘子	pán zi / plate
+阳台	yáng tái / balcony
+洗衣机	xǐ yī jī / washing machine
+晒太阳	shài tài yáng / bask in the sun
+阳光	yáng guāng / sunshine
+窝	wō / nest
+凳子	dèng zi / stool
+一条	yī tiáo / one piece
+不过	bù guò / However
+假	jiǎ / false
+玩具	wán jù / toys
+抗狼	kàng láng / Anti-wolf
+又	yòu / again
+吃饭	chī fàn / eat
+豌豆	wān dòu / peas
+皮	pí / skin
+老婆	lǎo pó / Wife
+豆子	dòu zi / beans
+只是	zhǐ shì / Just
+馋	chán / Greedy
+并	bìng / and
+正要	zhèng yào / About to
+刚才	gāng cái / Just now
+肉排	ròu pái / Steak
+土豆	tǔ dòu / potatoes
+番茄	fān qié / tomato
+电视剧	diàn shì jù / TV series
+等待	děng dài / wait
+看一看	kàn yī kàn / take a look
+太阳	tài yáng / sun
+强烈	qiáng liè / strong
+照到	zhào dào / shine
+评论	píng lùn / Comment
+区里	qū lǐ / District
+顺便	shùn biàn / By the way
+柜子	guì zi / cabinet
+本来	běn lái / Originally
+鸡肉	jī ròu / chicken
+干给	gàn gěi / Give it a try
+干	gàn / dry
+一袋	yī dài / a bag
+记得	jì de / remember
+展示	zhǎn shì / show
+喊	hǎn / shout
+过来	guò lái / come here
+抗狼抗	kàng láng kàng / Anti-wolf resistance
+狼	láng / wolf
+全部	quán bù / All
+冻干	dòng gàn / Freeze-dried
+着急	zháo jí / anxious
+急得	jí dé / anxious
+快要	kuài yào / Almost
+哈哈	hā hā / Haha
+袋子	dài zi / bag
+最爱	zuì ài / favorite
+哇	wa / wow
+美味	měi wèi / Delicious
+脆	cuì / crispy
+回去	huí qù / go back
+放到	fàng dào / put in
+吃太多	chī tài duō / eat too much
+正常	zhèng cháng / normal
+主食	zhǔ shí / staple food
+一样	yī yàng / Same
+拍	pāi / shoot
+学到	xué dào / learned
+表达	biǎo dá / express
+下个	xià gè / Next
+老外	lǎowài — foreigner (colloquial / slightly derogatory)
+真笨	zhēn bèn — really stupid (colloquial insult)
+笨	bèn — stupid / dumb
+听懂了	tīng dǒng le — understood (by listening) / got it
+你说得对	nǐ shuō de duì — you're right / what you said is correct
+不太好吧	bù tài hǎo ba — that's not very good / that's a bit much (softened criticism)
+你不应该说那个	nǐ bù yīnggāi shuō nàge — you shouldn't have said that
+礼貌	lǐmào — polite / politeness
+不太礼貌	bù tài lǐmào — not very polite / a bit rude
+X是为了Y	X shì wèile Y — X is in order to Y (purpose structure)
+对外国人好一点	duì wàiguórén hǎo yīdiǎn — be a bit kinder to foreigners
+才不是这样	cái bù shì zhèyàng — it's not like that at all / no way (casual denial)
+我会再来的	wǒ huì zài lái de — I'll come again
+记得带零钱	jìde dài língqián — remember to bring change
+零钱	língqián — small change / coins
+错误	Cuòwù - Mistake

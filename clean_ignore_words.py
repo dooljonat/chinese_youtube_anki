@@ -5,12 +5,14 @@ input_path = 'ignore_words.csv'
 output_path = 'ignore_words.csv'
 
 rows = []
+seen = set()
 with open(input_path, newline='', encoding='utf-8') as f:
     reader = csv.reader(f)
     for row in reader:
         if row and row[0].strip():
             first = row[0].strip()
-            if first != 'chinese':  # skip header row if present
+            if first != 'chinese' and first not in seen:
+                seen.add(first)
                 rows.append(first)
 
 with open(output_path, 'w', newline='', encoding='utf-8') as f:
@@ -18,4 +20,4 @@ with open(output_path, 'w', newline='', encoding='utf-8') as f:
     for word in rows:
         writer.writerow([word])
 
-print(f"Done. Kept {len(rows)} words.")
+print(f"Done. Kept {len(rows)} unique words.")
