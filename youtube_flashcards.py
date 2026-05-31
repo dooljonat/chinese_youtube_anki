@@ -169,7 +169,8 @@ def main():
     print("\n[5/5] Translating...")
     flashcards = translate_words(words)
 
-    output_path = f"flashcards_{video_id}.csv"
+    output_path = f"flashcard_decks/flashcards_{video_id}.csv"
+    Path("flashcard_decks").mkdir(exist_ok=True)
     write_csv(flashcards, output_path)
     print(f"\nDone. Saved {len(flashcards)} flashcards to '{output_path}'")
 
